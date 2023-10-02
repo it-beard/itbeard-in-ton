@@ -1,0 +1,9 @@
+{
+  "name": "@itbeard/root",
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {}
+}
