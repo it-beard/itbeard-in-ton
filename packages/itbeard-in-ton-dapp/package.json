@@ -11,7 +11,13 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "ton-core": "^0.52.0",
+    "ton-crypto": "^3.2.0",
+    "ton": "13.6.1",
+    "@tonconnect/ui-react": "^0.0.14",
+    "@twa-dev/sdk": "^6.9.0",
+    "@orbs-network/ton-access": "^2.3.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
