@@ -37,9 +37,9 @@ Backend application for interacting with media files in TON Storage. Has an API.
 Frontend application that can play files from TON Storage. The application with a specific file to be played should be opened by clicking on a special link inside a Telegram channel post, or be able to be embedded into a post in a Telegram channel
 
 # How to Contribute
-0. Registration: Connect your [wallet]("https://tonkeeper.com/") and fill your GitHub and Telegram accounts in [ton society]()
+0. Registration: Connect your [wallet]("https://tonkeeper.com/") and fill your GitHub and Telegram accounts in [ton society](https://society.ton.org/)
 1. Fork & Clone: Fork this repository and clone it to your local machine.
-2. Pick an Issue: Browse open issues, choose one that interests you, and commit to it.
+2. Pick an Issue: Browse open [issues](https://github.com/it-beard/itbeard-in-ton/issues), choose one that interests you, and commit to it.
 3. Code Away: Address the issue in your local environment.
 4. Pull Request: Submit a PR for review. Please ensure your PR title is clear and your description is detailed.
 5. Contact the team: notify the [Project Owner](https://github.com/itbeard) for check the code and PR approval.
