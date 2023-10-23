@@ -3,7 +3,7 @@
 [![Issues](https://img.shields.io/github/issues/it-beard/itbeard-in-ton)](https://github.com/it-beard/itbeard-in-ton/issues)
 
 # MEDIA MIRROR
-> TON storage-based dapp for storing large media files inside Telegram with the ability to play them within Telegram.
+> TON Storage-based dapp for storing large media files inside Telegram with the ability to play them within Telegram.
 
 # Introduction
 ```Media Mirror``` is a project that is a simple media storage of ```.mp4``` video files iles using ```TON Storage``` and with the ability to play these files in Telegram messenger directly from ```TON Storage```. 
