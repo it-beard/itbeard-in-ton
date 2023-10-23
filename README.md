@@ -11,8 +11,7 @@
 This project shoul help YouTube bloggers and video content creators from other platforms to disconnect from their main platforms, and upload their content directly to the TON network and interact with it through the TON and Telegram ecosystems.
 
 YouTube channel [АйТиБорода](https://youtube.com/@itbeard) will act as the first test consumer of the project.
-
-<span style="color: red;">IMPORTANT:</span> This project is being developed as part of ```HACK-TON-BERFEST 2023```. Read more about the conditions of participation in the hackathon, participating projects and prizes [here](https://society.ton.org/hack-ton-berfest-2023).
+![#f03c15](IMPORTANT:) This project is being developed as part of ```HACK-TON-BERFEST 2023```. Read more about the conditions of participation in the hackathon, participating projects and prizes [here](https://society.ton.org/hack-ton-berfest-2023).
 
 
 # High-level project implementation
