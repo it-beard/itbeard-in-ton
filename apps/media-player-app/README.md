@@ -1,0 +1,2 @@
+## Media Player App
+Frontend application that can play files from TON Storage. The application with a specific file to be played should be opened by clicking on a special link inside a Telegram channel post, or be able to be embedded into a post in a Telegram channel
