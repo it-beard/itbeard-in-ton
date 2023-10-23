@@ -8,18 +8,18 @@
 # Introduction
 ```Media Mirror``` is a project that is a simple media storage of ```.mp4``` video files using ```TON Storage``` and with the ability to play these files in Telegram messenger directly from ```TON Storage```. 
 
-This project shoul help YouTube bloggers and video content creators from other platforms to disconnect from their main platforms, and upload their content directly to the TON network and interact with it through the TON and Telegram ecosystems.
+This project should help YouTube bloggers and video content creators from other platforms to disconnect from their main platforms, upload their content directly to the TON network, and interact with it through the TON and Telegram ecosystems.
 
 YouTube channel [АйТиБорода](https://youtube.com/@itbeard) will act as the first test consumer of the project.
 
-$${\color{red}Red}$$ ![#f03c15](IMPORTANT:) This project is being developed as part of ```HACK-TON-BERFEST 2023```. Read more about the conditions of participation in the hackathon, participating projects and prizes [here](https://society.ton.org/hack-ton-berfest-2023).
+$${\color{red}IMPORTANT:}$$ This project is being developed as part of ```HACK-TON-BERFEST 2023```. Read more about the conditions of participation in the hackathon, participating projects, and prizes [here](https://society.ton.org/hack-ton-berfest-2023).
 
 
 # High-level project implementation
 <img src="readme-files/diagram.jpg" alt="drawing" width="300"/>
 
 ## Media Manager App
-Frontend application for interacting with media files in TON Storage.  Interaction takes place via Backend App. It can be either a regular Web App or a Telegram App. Allows you to do the following actions with files:
+Frontend application for interacting with media files in TON Storage.  Interaction takes place via the ```Backend App```. It can be either a regular Web App or a Telegram App. Allows you to do the following actions with files:
 - Upload a file
 - View the list of uploaded files
 - Delete a file.
