@@ -46,14 +46,14 @@ Frontend application that can play files from TON Storage. The application with 
 2. Pick an Issue: Browse open [issues](https://github.com/it-beard/itbeard-in-ton/issues), choose one that interests you, and commit to it.
 3. Code Away: Address the issue in your local environment.
 4. Pull Request: Submit a PR for review. Please ensure your PR title is clear and your description is detailed.
-5. Contact the team: notify the [Project Owner](https://github.com/itbeard) for check the code and PR approval.
+5. Contact the team: notify the [@itbeard](https://github.com/itbeard) for check the code and PR approval.
+6. Have FUN!!! 😊
 
 
 >Video tutorial: If you prefer visual learning, check out this video tutorial [EN](https://www.youtube.com/channel/UCaiBZhZWqYeeQMUeCev18ng), [RU](https://www.youtube.com/playlist?list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92) on contributing!
 
 
 ## Community
-* Team Chat (Russain language): https://t.me/itbeard_in_ton
+* Team Chat (Russian language): https://t.me/itbeard_in_ton
 * Team Chat (English language): https://t.me/itbeard_in_ton_en
-* Project Owner: [@itbeard](https://github.com/itbeard) (feel free to ping me for PR approval 😊)
 
