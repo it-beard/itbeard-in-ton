@@ -6,7 +6,7 @@
 > TON Storage-based dapp for storing large media files inside Telegram with the ability to play them within Telegram.
 
 # Introduction
-```Media Mirror``` is a project that is a simple media storage of ```.mp4``` video files iles using ```TON Storage``` and with the ability to play these files in Telegram messenger directly from ```TON Storage```. 
+```Media Mirror``` is a project that is a simple media storage of ```.mp4``` video files using ```TON Storage``` and with the ability to play these files in Telegram messenger directly from ```TON Storage```. 
 
 This project shoul help YouTube bloggers and video content creators from other platforms to disconnect from their main platforms, and upload their content directly to the TON network and interact with it through the TON and Telegram ecosystems.
 
