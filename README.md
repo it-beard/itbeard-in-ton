@@ -2,7 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/it-beard/itbeard-in-ton)](https://github.com/it-beard/itbeard-in-ton/stargazers)
 [![Issues](https://img.shields.io/github/issues/it-beard/itbeard-in-ton)](https://github.com/it-beard/itbeard-in-ton/issues)
 
-# TON-DRIVE
+# MEDIA MIRROR
 > TON storage-based dapp for storing large media files inside Telegram with the ability to play them within Telegram.
 
 # Introduction
